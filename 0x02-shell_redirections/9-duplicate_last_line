@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -2 iacta | tee -a iacta
+tail -2 iacta >> iacta
